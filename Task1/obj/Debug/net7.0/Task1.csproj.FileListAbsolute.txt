@@ -1,0 +1,15 @@
+/Users/admin/Documents/С#/Seminar9_c#/Task1/bin/Debug/net7.0/Task1
+/Users/admin/Documents/С#/Seminar9_c#/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/admin/Documents/С#/Seminar9_c#/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Users/admin/Documents/С#/Seminar9_c#/Task1/bin/Debug/net7.0/Task1.dll
+/Users/admin/Documents/С#/Seminar9_c#/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/admin/Documents/С#/Seminar9_c#/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/Users/admin/Documents/С#/Seminar9_c#/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/С#/Seminar9_c#/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/admin/Documents/С#/Seminar9_c#/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/admin/Documents/С#/Seminar9_c#/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/С#/Seminar9_c#/Task1/obj/Debug/net7.0/Task1.dll
+/Users/admin/Documents/С#/Seminar9_c#/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/admin/Documents/С#/Seminar9_c#/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/admin/Documents/С#/Seminar9_c#/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Users/admin/Documents/С#/Seminar9_c#/Task1/obj/Debug/net7.0/ref/Task1.dll
