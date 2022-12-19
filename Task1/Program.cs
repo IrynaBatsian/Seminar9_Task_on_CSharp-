@@ -2,6 +2,7 @@
 
 int sum(int n, int m)
 {
+  Console.WriteLine($"{n} {m}");
   if (m == 0)
     return n;
   return sum(n + 1, m - 1);
